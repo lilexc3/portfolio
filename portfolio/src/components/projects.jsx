@@ -7,7 +7,7 @@ const projects = [
     description:
       "Полнофункциональная платформа электронной коммерции с корзиной покупок, обработкой платежей и панелью администратора.",
     image: "https://i.imgur.com/U39oUR8.png",
-    tags: ["React", "Node.js", "MongoDB", "Stripe"],
+    tags: ["Node.js", "MongoDB", "Stripe"],
     liveUrl: "https://ogbudapc.netlify.app/",
     githubUrl: "https://github.com/lilexc3/OgBuda",
   },
@@ -17,7 +17,7 @@ const projects = [
     description:
       "Интуитивное приложение для управления задачами с функциями перетаскивания, совместной работы в реальном времени.",
     image: "https://placehold.co/600x400/1e293b/63b3ed?text=Task+Manager",
-    tags: ["React", "TypeScript", "Firebase"],
+    tags: ["React", "Firebase"],
     liveUrl: "#",
     githubUrl: "#",
   },
@@ -27,7 +27,7 @@ const projects = [
     description:
       "Красивая панель управления погодой с прогнозами в реальном времени, интерактивными картами и историческими данными.",
     image: "https://placehold.co/600x400/1e293b/63b3ed?text=Weather+App",
-    tags: ["Vue.js", "API Integration", "Chart.js"],
+    tags: ["Vue.js", "API Integration"],
     liveUrl: "#",
     githubUrl: "#",
   },
@@ -37,7 +37,7 @@ const projects = [
     description:
       "Комплексная аналитическая панель для отслеживания метрик социальных сетей и вовлеченности пользователей.",
     image: "https://placehold.co/600x400/1e293b/63b3ed?text=Analytics",
-    tags: ["Next.js", "PostgreSQL", "D3.js"],
+    tags: ["Next.js", "PostgreSQL"],
     liveUrl: "#",
     githubUrl: "#",
   },
@@ -47,7 +47,7 @@ const projects = [
     description:
       "Конструктор портфолио с функцией перетаскивания, позволяющий пользователям создавать профессиональные портфолио без кода.",
     image: "https://placehold.co/600x400/1e293b/63b3ed?text=Portfolio+Builder",
-    tags: ["React", "Drag & Drop", "AWS S3"],
+    tags: ["React", "MongoDB"],
     liveUrl: "#",
     githubUrl: "#",
   },
@@ -57,7 +57,7 @@ const projects = [
     description:
       "Мобильное приложение для отслеживания тренировок, питания и целей в фитнесе с социальными функциями.",
     image: "https://placehold.co/600x400/1e293b/63b3ed?text=Fitness+Tracker",
-    tags: ["React Native", "GraphQL", "MongoDB"],
+    tags: ["React", "MongoDB"],
     liveUrl: "#",
     githubUrl: "#",
   },
