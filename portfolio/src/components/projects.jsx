@@ -6,10 +6,10 @@ const projects = [
     title: "E-Commerce Platform",
     description:
       "Полнофункциональная платформа электронной коммерции с корзиной покупок, обработкой платежей и панелью администратора.",
-    image: "https://placehold.co/600x400/1e293b/63b3ed?text=E-Commerce",
+    image: "https://i.imgur.com/U39oUR8.png",
     tags: ["React", "Node.js", "MongoDB", "Stripe"],
-    liveUrl: "#",
-    githubUrl: "#",
+    liveUrl: "https://ogbudapc.netlify.app/",
+    githubUrl: "https://github.com/lilexc3/OgBuda",
   },
   {
     id: 2,
