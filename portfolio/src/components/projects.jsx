@@ -26,7 +26,7 @@ const projects = [
     title: "Weather Dashboard",
     description:
       "Красивая панель управления погодой с прогнозами в реальном времени, интерактивными картами и историческими данными.",
-    image: "https://placehold.co/600x400/1e293b/63b3ed?text=Weather+App",
+    image: "https://i.imgur.com/F6gTRib.png",
     tags: ["Vue.js", "API Integration"],
     liveUrl: "https://weatherapplilexc3.netlify.app/",
     githubUrl: "https://github.com/lilexc3/WeatherApp",
