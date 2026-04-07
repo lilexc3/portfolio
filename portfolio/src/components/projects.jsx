@@ -28,8 +28,8 @@ const projects = [
       "Красивая панель управления погодой с прогнозами в реальном времени, интерактивными картами и историческими данными.",
     image: "https://placehold.co/600x400/1e293b/63b3ed?text=Weather+App",
     tags: ["Vue.js", "API Integration"],
-    liveUrl: "#",
-    githubUrl: "#",
+    liveUrl: "https://weatherapplilexc3.netlify.app/",
+    githubUrl: "https://github.com/lilexc3/WeatherApp",
   },
   {
     id: 4,
